@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.chartDiv {
+  text-align: center;
+  padding: 1rem;
+}
